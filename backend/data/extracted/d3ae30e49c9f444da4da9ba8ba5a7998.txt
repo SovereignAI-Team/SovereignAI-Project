@@ -1,0 +1,64 @@
+--- Page 1 ---
+Suyash Hadole
+Pune, Maharashtra, India | +91 84596 60765 | suyashhadole14@gmail.com | linkedin.com/in/suyash-hadole | GitHub | Portfolio
+Education
+MIT Academy of Engineering (MITAOE), Alandi
+Pune | Sep 2024 – Expected Jun 2028
+Bachelor of Technology — Computer Science & Engineering (AI/ML)
+• Relevant Coursework: Machine Learning, Data Structures & Algorithms, Database Management Systems, Probability &
+Statistics, Object-Oriented Programming, Generative AI, Software Architecture
+Jai Hind Junior College, Pimpri
+Pune | Aug 2022 – Apr 2024
+Higher Secondary Certificate (HSC) — Science (Physics, Chemistry, Mathematics, IT)
+Score: 77%
+Experience
+Sagveek Technologies Pvt Ltd
+Pune, Maharashtra, India
+AI/ML Intern – Healthcare AI Solutions
+Jun 2026 – Jul 2026
+• Engineered the core AI chatbot and RAG pipeline for MedDevice.AI, leveraging Python, TF-IDF, Flask, Cosine
+Similarity, Retrieval-Augmented Generation (RAG), and FAISS to provide context-aware medical device assistance
+and recommendations.
+• Implemented Tesseract OCR for medical report analysis, integrated secure authentication, personalized dashboards, chat
+history, speech recognition, and medical device ordering using Supabase, HTML, CSS, Bootstrap, and JavaScript, delivering a
+scalable end-to-end healthcare solution.
+AAAI Student Chapter, MITAOE
+Pune, Maharashtra, India
+Membership & Outreach Coordinator
+Mar 2026 – Present
+• Spearheaded AI awareness campaigns, coordinated the chapter inauguration program, and actively promoted AAAI across the
+campus to drive student engagement.
+Projects
+Navonmesh — City-Wide AI ANPR & Traffic Analytics Engine | YOLOv8, PaddleOCR, Leaflet | View Project
+2026
+• Implemented robust vehicle and license plate detection using YOLOv8 and PaddleOCR with confidence scoring, paired with
+ByteTrack and Re-ID models for persistent cross-camera tracking.
+• Engineered a centralized AI platform featuring 2D journey reconstruction, automated anomaly alerts, and traffic density
+visualization using Flask, PostgreSQL, and Leaflet GIS.
+MedDevice.AI — AI-Powered Medical Device Assistant | Python, Flask, RAG, FAISS, OCR | View Project
+2026
+• Designed and built an intelligent conversational medical device assistance chatbot utilizing Machine Learning,
+Retrieval-Augmented Generation (RAG), and FAISS-based semantic search to guide users in discovering appropriate
+medical devices.
+• Integrated Tesseract OCR for medical report analysis, allowing automatic extraction of clinical information and smart
+medical device recommendations based on uploaded reports.
+• Built secure authentication, personalized dashboards, chat history, speech recognition, and medical device ordering using
+Flask, Supabase, HTML, CSS, Bootstrap, and JavaScript, delivering a responsive end-to-end healthcare solution.
+AgroPulse — The Pulse of Smart Farming | Python, ML, FastAPI, SQL, JavaScript | View Project
+2025-Present
+• Developed a full-stack smart agriculture platform connecting farmers and managers through intelligent crop monitoring,
+collaboration tools, and role-based dashboards using FastAPI and Supabase.
+• Integrated Machine Learning and Computer Vision models for automated crop disease detection, predictive analytics, AI
+recommendations, and image-based insights.
+Technical Skills
+Languages: C++, Python, JavaScript, SQL, HTML, CSS
+AI / ML: Scikit-learn, TensorFlow, YOLOv8, EfficientNet-B4, NumPy, Pandas, TF-IDF, RAG, FAISS, NLP
+Backend & Databases: FastAPI, Flask, PostgreSQL, MySQL, Supabase
+Developer Tools: Git, GitHub, VS Code, Jupyter Notebook, Google Colab
+Domains: Computer Vision, Object Detection, OCR (Tesseract), Image Classification, Predictive Analytics, ANPR
+Certifications & Achievements
+Certifications: 1) AIML Internship Completion Certificate – Sagveek Technologies Pvt. Ltd., 2) Python Essentials 1 & 2 –
+Cisco Networking Academy, 3) Getting Started with Artificial Intelligence – IBM/Coursera, 4) Google AI Essentials – Google
+Achievements: 1) Shortlisted for the Prototype Demonstration phase at the MIT ADT University AI Grand Challenge
+2026 (National-level hackathon with 3,200+ applications and 600+ teams).
+2)Nominated for Smart India Hackathon (SIH) 2026 representing MITAOE under problem statement SIH26127..

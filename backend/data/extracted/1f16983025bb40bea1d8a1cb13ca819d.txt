@@ -1,0 +1,52 @@
+--- Page 1 ---
+Yadnesh Nilkanth Tayade 
+yadneshtayade72@gmail.com | +91 7276125691 
+SUMMARY 
+AI & ML engineering student with a foundational knowledge of Python, Machine Learning, and Data Analysis, 
+along with hands-on experience working with embedded systems and IoT technologies. Interested in developing 
+intelligent, data-driven solutions by combining AI/ML techniques with real-world applications. Eager to expand 
+technical skills and contribute to innovative engineering projects. 
+EDUCATION 
+B.Tech, Computer Science and Engineering (Artificial Intelligence and Machine Learning) 
+MIT Academy of Engineering, Alandi | Expected graduation: 2028 | CGPA: 7.87 
+SOFT SKILLS 
+Problem-Solving, Analytical Thinking, Teamwork, Communication, Adaptability, Quick Learning 
+TECHNICAL SKILLS 
+Language:
+AI & Machine Learning: Machine Learning, Deep Learning Fundamentals 
+Embedded Systems & IoT: ESP32, Arduino, Sensor Interfacing 
+Tools: VS Code, Git, Jupiter notebook 
+Currently Learning: NLP, Generative Ai 
+PROJECTS 
+AI-Based Legal Advisory System – MyLegalAI (Minor Project) 
+Python, TensorFlow/Keras, NLP, Sentence Transformers, Deep Learning 
+• 
+Developed an AI-based legal advisory website providing relevant legal provisions, recommended actions, 
+and step-by-step guidance. 
+• 
+Implemented a hybrid BiLSTM–GRU model with Transformer-based semantic search using a structured 
+legal dataset of 7,600 records. 
+• 
+Integrated confidence-based fallback matching and lawyer-referral indicators for uncertain or complex 
+legal queries. 
+Smart Fire Detection and Automatic Fire Suppression System 
+ESP32, Embedded C/C++, Flame Sensors, MQ-2, DHT11, Relay Module 
+• 
+Developing an automated fire detection and suppression system using flame, smoke, and temperature 
+sensors, with ESP32-based control of a relay-operated water pump. 
+• 
+Implementing real-time alerts using a buzzer, LEDs, and an LCD to indicate normal conditions, smoke 
+warnings, and fire emergencies. 
+INTERNSHIP 
+Cisco Networking Academy Summer Internship 
+• Completed courses in Data Analytics Essentials, Introduction to Modern AI and Find Insights with AI. 
+• Worked in a team on a small project applying AI to network troubleshooting with human review of results. 
+CERTIFICATIONS 
+• Data Analytics Essentials — Cisco Networking Academy(NetAcad) 
+• Python – Cisco Networking Academy (NetAcad) 
+• Dreams Unlocked – Building an AI-Ready India — Edunet Foundation / HP 
+• Foundations of Quantum Computing — IBM Quantum 
+ 
+ 
+ 
+Python, C++

@@ -1,0 +1,67 @@
+--- Page 1 ---
+PRATIK DHANAJI MANE
+B.Tech. - CSE - Artificial Intelligence & Machine Learning
+Ph: +91-9270185389
+Email: 202401110033@mitaoe.ac.in
+Pune City, Maharashtra, India - 411047
+Java OOPs Spring Spring Boot Spring MVC
+PROFESSIONAL SUMMARY
+Java learner with good understanding of OOP, Collections, and Stream API. Currently learning Spring Boot and REST API
+development, along with database integration. Exploring Artificial Intelligence and learning how to use AI tools in real-world
+applications. Eager to improve skills and build practical projects.
+KEY EXPERTISE
+EDUCATION
+2024  -  2028
+MIT Academy of Engineering, Pune
+B.Tech. - CSE - Artificial Intelligence & Machine Learning | CGPA: 8.61 / 10
+2024
+ARMY PUBLIC SCHOOL DIGHI, Pune
+12th | CBSE | Percentage: 84 / 100
+2022
+Army Public School Dighi, Pune
+10th | CBSE | Percentage: 87.40 / 100
+INTERNSHIPS
+01 Jun, 2026  - 31 Jul, 2026 
+Campus Credentials
+Airbnb Clone Website | Frontend Web Developer Intern
+Key Skills: Front-End Web Development
+Developed a responsive Airbnb clone website using HTML, CSS, JavaScript, jQuery, and Bootstrap to simulate property browsing and
+accommodation listings. Implemented interactive UI elements and responsive layouts, enhancing skills in DOM manipulation, event
+handling, and frontend development.
+15 Jun, 2025  - 15 Jul, 2025 
+Dept of CSE(AIML) MITAOE  | Academics / Research
+Research Internship,Summer
+Key Skills: Vector DB Docker RAG
+Completed an internship focused on designing and developing an AI-driven Avatar System, integrating computer vision, NLP, and
+generative AI to build interactive and realistic virtual avatars for applications in education and virtual communication.
+PROJECTS
+RAG integration in chatbot (Backend)
+Team Size: 1
+Key Skills: Spring SpringBoot Spring AI Java
+Project Link:  https://github.com/symbol-hub
+Airbnb Clone Website Frontend
+Airbnb Clone Website
+Mentor: Mr. Gaurav Chaudhari
+Key Skills: HTML, CSS, JavaScript, jQuery, Bootstrap
+Developed an Airbnb clone website with a responsive user interface to explore property listings and accommodation options.
+Implemented interactive features and dynamic elements using JavaScript and jQuery, enhancing skills in frontend development, DOM
+manipulation, and responsive web design.
+
+--- Page 2 ---
+Gender: Male
+Marital Status: Single
+Current Address: Hill View Residency, Khandoba Mal
+Road,Lohegoan, Pune City, Maharashtra, India - 411047
+Date of Birth: 02 Apr, 2006
+Known Languages: Marathi,Hindi,English
+Phone Numbers: +91-9270185389, +91-9022665178
+Emails: 202401110033@mitaoe.ac.in , manepratik745@gmail.com
+ASSESSMENTS / CERTIFICATIONS
+Java with DSA
+Provider: APNA College
+Key Skills: DSA
+Java fundamentals
+Provider: Campus Credentials
+WEB LINKS
+Github - https://github.com/symbol-hub
+PERSONAL DETAILS

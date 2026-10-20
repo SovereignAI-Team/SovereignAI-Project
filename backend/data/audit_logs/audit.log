@@ -1,0 +1,32 @@
+{"timestamp": "2026-10-19T08:48:07+00:00", "event": "upload_received", "document_id": "1f16983025bb40bea1d8a1cb13ca819d", "detail": "bytes=186079"}
+{"timestamp": "2026-10-19T08:48:49+00:00", "event": "processing_complete", "document_id": "1f16983025bb40bea1d8a1cb13ca819d", "detail": "pages=1 chunks=4"}
+{"timestamp": "2026-10-19T08:49:08+00:00", "event": "question_asked", "document_id": null, "detail": "docs=1 chars=19"}
+{"timestamp": "2026-10-19T08:49:13+00:00", "event": "question_asked", "document_id": null, "detail": "docs=1 chars=2"}
+{"timestamp": "2026-10-19T08:49:52+00:00", "event": "question_answered", "document_id": null, "detail": "docs=1 sources=4"}
+{"timestamp": "2026-10-19T08:50:03+00:00", "event": "question_asked", "document_id": null, "detail": "docs=1 chars=14"}
+{"timestamp": "2026-10-19T08:57:42+00:00", "event": "question_asked", "document_id": null, "detail": "docs=1 chars=4"}
+{"timestamp": "2026-10-19T08:58:18+00:00", "event": "question_asked", "document_id": null, "detail": "docs=1 chars=3"}
+{"timestamp": "2026-10-19T08:58:53+00:00", "event": "question_answered", "document_id": null, "detail": "docs=1 sources=1"}
+{"timestamp": "2026-10-19T09:06:04+00:00", "event": "question_asked", "document_id": null, "detail": "docs=1 chars=15"}
+{"timestamp": "2026-10-19T09:06:11+00:00", "event": "question_asked", "document_id": null, "detail": "docs=1 chars=3"}
+{"timestamp": "2026-10-19T09:06:48+00:00", "event": "question_answered", "document_id": null, "detail": "docs=1 sources=1"}
+{"timestamp": "2026-10-19T09:06:55+00:00", "event": "question_asked", "document_id": null, "detail": "docs=1 chars=8"}
+{"timestamp": "2026-10-19T09:07:27+00:00", "event": "question_answered", "document_id": null, "detail": "docs=1 sources=3"}
+{"timestamp": "2026-10-19T09:08:39+00:00", "event": "upload_received", "document_id": "d3ae30e49c9f444da4da9ba8ba5a7998", "detail": "bytes=144019"}
+{"timestamp": "2026-10-19T09:08:41+00:00", "event": "processing_complete", "document_id": "d3ae30e49c9f444da4da9ba8ba5a7998", "detail": "pages=1 chunks=6"}
+{"timestamp": "2026-10-19T09:08:54+00:00", "event": "upload_received", "document_id": "8eb9d3e9346647a1a4e92af22a0dc316", "detail": "bytes=189735"}
+{"timestamp": "2026-10-19T09:08:55+00:00", "event": "processing_complete", "document_id": "8eb9d3e9346647a1a4e92af22a0dc316", "detail": "pages=2 chunks=4"}
+{"timestamp": "2026-10-19T09:08:58+00:00", "event": "question_asked", "document_id": null, "detail": "docs=3 chars=8"}
+{"timestamp": "2026-10-19T09:09:50+00:00", "event": "question_answered", "document_id": null, "detail": "docs=3 sources=5"}
+{"timestamp": "2026-10-19T09:10:30+00:00", "event": "question_asked", "document_id": null, "detail": "docs=3 chars=10"}
+{"timestamp": "2026-10-19T09:11:28+00:00", "event": "question_answered", "document_id": null, "detail": "docs=3 sources=3"}
+{"timestamp": "2026-10-19T09:12:44+00:00", "event": "question_asked", "document_id": null, "detail": "docs=3 chars=3"}
+{"timestamp": "2026-10-19T09:13:51+00:00", "event": "question_answered", "document_id": null, "detail": "docs=3 sources=5"}
+{"timestamp": "2026-10-19T09:14:44+00:00", "event": "question_asked", "document_id": null, "detail": "docs=3 chars=10"}
+{"timestamp": "2026-10-19T09:14:58+00:00", "event": "question_answered", "document_id": null, "detail": "docs=3 sources=3"}
+{"timestamp": "2026-10-19T13:02:27+00:00", "event": "question_asked", "document_id": null, "detail": "docs=3 chars=51"}
+{"timestamp": "2026-10-19T13:04:34+00:00", "event": "question_answered", "document_id": null, "detail": "docs=3 sources=5"}
+{"timestamp": "2026-10-19T13:04:40+00:00", "event": "question_asked", "document_id": null, "detail": "docs=3 chars=50"}
+{"timestamp": "2026-10-19T13:04:51+00:00", "event": "question_asked", "document_id": null, "detail": "docs=3 chars=23"}
+{"timestamp": "2026-10-19T13:05:01+00:00", "event": "question_asked", "document_id": null, "detail": "docs=3 chars=9"}
+{"timestamp": "2026-10-19T13:06:16+00:00", "event": "question_answered", "document_id": null, "detail": "docs=3 sources=5"}
