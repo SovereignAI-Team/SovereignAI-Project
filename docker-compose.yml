@@ -1,0 +1,13 @@
+# Optional: runs only the Ollama LLM server in a container.
+# The recommended Windows setup runs everything natively (see README).
+services:
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "127.0.0.1:11434:11434"   # bound to localhost only
+    volumes:
+      - ollama_models:/root/.ollama
+    restart: unless-stopped
+
+volumes:
+  ollama_models:
